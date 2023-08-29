@@ -1,0 +1,6 @@
+D:\shoon lai kyi\asp.netTester\asp.netTester\bin\asp.netTester.dll.config
+D:\shoon lai kyi\asp.netTester\asp.netTester\bin\asp.netTester.dll
+D:\shoon lai kyi\asp.netTester\asp.netTester\bin\asp.netTester.pdb
+D:\shoon lai kyi\asp.netTester\asp.netTester\obj\Debug\asp.netTester.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\asp.netTester\asp.netTester\obj\Debug\asp.netTester.dll
+D:\shoon lai kyi\asp.netTester\asp.netTester\obj\Debug\asp.netTester.pdb
